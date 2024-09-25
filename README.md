@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **connecting to Bitcoin conferences organisers**
 
-- 💬 Ask me about **mobile, Bitcoin, web3**
+- 💬 Ask me about **mobile, Android, Kotlin Multiplatform (KMP), blockchain, Bitcoin, wallets, web3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
